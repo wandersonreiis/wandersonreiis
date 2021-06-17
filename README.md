@@ -8,7 +8,7 @@
 Meu nome é Wanderson, Sou Tec. em Desenvolvimento de Sistemas, Graduando em Ciência de Dados. Sigo na caminhada em busca de conhecimento.
 🌏São Paulo - ZN
 <p align = "center">
-<img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/96/000000/css3.png"/><img src="https://img.icons8.com/color/96/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/45/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/45/000000/css3.png"/><img src="https://img.icons8.com/color/45/000000/javascript.png"/>
   </p>
   
   
@@ -19,7 +19,7 @@ Meu nome é Wanderson, Sou Tec. em Desenvolvimento de Sistemas, Graduando em Ci�
 
 
 <p align = "center">
-<img src="https://img.icons8.com/color/96/000000/python.png"/><img    src="https://img.icons8.com/fluent/96/000000/php.png"/><img     src="https://img.icons8.com/color/96/000000/power-bi.png"/>
+<img src="https://img.icons8.com/color/45/000000/python.png"/><img    src="https://img.icons8.com/fluent/45/000000/php.png"/><img     src="https://img.icons8.com/color/45/000000/power-bi.png"/>
   </p>
 
 <p align = "center">
