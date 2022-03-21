@@ -7,7 +7,7 @@
 
 
 Meu nome é Wanderson, Sou Tec. em Desenvolvimento de Sistemas, Graduando em Ciência de Dados. Sigo na caminhada em busca de conhecimento.
-🌏São Paulo - ZN
+🌏São Paulo - ZS
 <p align = "center">
 <img src="https://img.icons8.com/color/45/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/45/000000/css3.png"/><img src="https://img.icons8.com/color/45/000000/javascript.png"/>
   </p>
